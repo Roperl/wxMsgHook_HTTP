@@ -11,6 +11,7 @@
 
 ### 提供3.9.2.23微信消息钩子
 任何微信消息皆可接收
+下载地址：https://github.com/Roperl/wxMsgHook_HTTP/releases/tag/3.9.2
 
 ## 使用教程
 
@@ -33,4 +34,4 @@ GET http://127.0.0.1:8888/recvmsg
 
 
 ## 商务合作，请捐献且备注联系信息
-![](https://mp-36d1c2f3-2ce9-4f84-9090-887a579e6782.cdn.bspapp.com/微信图片_20240307114331.jpg)
+![微信二维码](https://mp-36d1c2f3-2ce9-4f84-9090-887a579e6782.cdn.bspapp.com/微信图片_20240307114331.jpg)
