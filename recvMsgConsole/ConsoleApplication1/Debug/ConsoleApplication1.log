@@ -1,3 +1,0 @@
-﻿  ConsoleApplication1.cpp
-D:\code\c++\recvMsgConsole\ConsoleApplication1\ConsoleApplication1.cpp(72): warning C4715: “InjectDLL”: 不是所有的控件路径都返回值
-  ConsoleApplication1.vcxproj -> D:\code\c++\recvMsgConsole\ConsoleApplication1\Debug\ConsoleApplication1.exe
