@@ -24,7 +24,6 @@
 接口详情为
 GET http://127.0.0.1:8888/recvmsg
 
-
 |QueryParams key|解释|
 |-|-|
 |msgId|消息唯一id|
